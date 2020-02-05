@@ -1,5 +1,0 @@
-ceci est un document texte !!
-
-je modifie mon premier fichier
-
-là je refais une modif et le serveur ne va pas être tout de suite au courant
